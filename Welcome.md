@@ -1,4 +1,4 @@
-* First things first welcome to my Linux guide! It is so great to see you here.
+# First things first welcome to my Linux guide! It is so great to see you here.
 
 * For better learning i strongly advise you to download and install your favorite Linux distribution and try the stuff on your own terminal emulator.
 
