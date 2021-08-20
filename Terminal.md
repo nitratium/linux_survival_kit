@@ -4,6 +4,11 @@
 
 *** Firstly, I need to inform you about something. You know the terminal on Linux right? Well, it's not a terminal.
 
+* We have 3 important terms to learn before typing commands. Terminal, commands and shell.
+  * Terminal is the window that we type our commands and submit them to shell simply clicking to enter.
+  * Commands are the stuff we type on our terminal.
+  * Shell is a program that interprets our commands into a meaning for our computer to be able to execute.
+
 * Let's open the terminal. You can open your terminal with graphical interface basically clicking on its icon on your favorites menu. When you install Ubuntu, terminal icon comes as stock on your favorites menu or taskbar with Windows slang. Also you can use the shortcut **CTRL + ALT + T** to open your terminal.
 
 * I am hoping that you managed to open your terminal. :) 

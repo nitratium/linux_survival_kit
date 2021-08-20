@@ -43,3 +43,5 @@ $ history
   $ !34
   ```
   will run your 34th command on your history list.
+
+  * Also you can navigate through old commands with up and down arrow keys.
