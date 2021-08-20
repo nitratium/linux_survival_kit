@@ -31,3 +31,15 @@ $ history
   ```
   $ history -c
   ```
+  * "!!" will run the previous command. !x will run your xth command.
+  ```
+  $ echo Hello World!
+  Hello World!
+  $ !!
+  Hello World!
+  ```
+  and
+  ```
+  $ !34
+  ```
+  will run your 34th command on your history list.
