@@ -13,12 +13,3 @@
 
 # ABOUT COMMAND STRUCTURE
 
-# echo Command
-* If you have programming experience this thing basically does what a **print()** does. If you don't have any programming experience it is still so easy. Give it an input and it will return what you gave it.
-
-```
-echo Hello World!
-Hello World!
-```
-
-* You might think why do I need something like this it just mirrors me. Well yes for now it is useless but we can redirect outputs to other commands or to files. With this power it gains meaning. We will discuss redirection in detail later, don't worry about it now.
