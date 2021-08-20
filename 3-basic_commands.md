@@ -45,3 +45,11 @@ $ history
   will run your 34th command on your history list.
 
   * Also you can navigate through old commands with up and down arrow keys.
+
+# cat Command
+* This command returns the content of files. Mostly we use this for text files.
+  * Lets say we have a text file named text.txt with the content "This is a text file.".
+  ```
+  $ cat text.txt
+  This is a text file.
+  ```
