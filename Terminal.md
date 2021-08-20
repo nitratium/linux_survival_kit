@@ -37,7 +37,7 @@ this two options are equivalent.
 
 * As you can guess, "-r" is an option for our command. This option tells our command to restart the computer after the shutdown. If we wouldn't type -r it would just shut the computer down.
 
-* **Arguments** are a type of input. Some commands take only one input while some takes more than one. Some commands take no inputs at all. Shutdown command takes a timing input for the shutdown. We have given "now" input to shutdown right now.
+* **Arguments** are a type of input. Some commands take only one input while some takes more than one. Some commands take no inputs at all. Shutdown command takes a timing input for the shutdown. We have given "now" input for shutting down "right now".
 
 * Some options may also take arguments. For example:
 ```
