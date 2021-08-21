@@ -3,9 +3,22 @@
  * So, we learned the command structure and some basic commands with some of their options. But you might be asking "This was just a start how am I supposed to know all of it?". Well, yes you are right. Most of us won't be able to memorise all of the commands and these command's every option. This is why we have something called **Manual Pages**.
 
  * Manual pages are structured in 8 sections.
-   1. A
-   2. B
-   3. C
+   1. User Commands
+     * These are the commands that can be run from the terminal by any regular user.
+   2. System Calls
+     * 
+   3. Library Functions
+     * 
+   4. Devices
+     * 
+   5. Files
+     * 
+   6. Games
+     * 
+   7. Miscellaneous
+     * 
+   8. System Administration
+     * 
 
  * Linux has manual pages for most of the commands. With "man" command we are able to look into manual page for a spesific command.
 
