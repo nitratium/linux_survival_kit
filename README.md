@@ -1,5 +1,2 @@
-# linux_terminal
-under construction
-
-* sentence 1
-* sentence 2
+# Beginner Friendly Linux Terminal Guide
+Under construction, will be with you soon :)
