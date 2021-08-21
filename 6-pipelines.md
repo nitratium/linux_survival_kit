@@ -1,0 +1,2 @@
+# Pipelines
+ * Linux commands are designed to do one thing and do it in the most efficient way. But a limitation comes out here. What if we want to handle more than one thing in only one execute? Well, the true power of the linux command line comes out with a feature named piping. We can chain our commands to work together.
