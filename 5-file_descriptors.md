@@ -16,9 +16,9 @@
   * Don't worry about file paths for now. We will discuss about them in detail on later documents. If commands doesnt work because of the path, use **"cd"** command for once and they should work. If you are curious, we are using cd command for navigating through directories. It is short for "change direction". If you don't give any input to cd, it will teleport you into your home directory.
 
   * Standart Output Example:
-  ```
-  $ date 1> Desktop/date.txt
-  ```
+    ```
+    $ date 1> Desktop/date.txt
+    ```
     * Now go inside that text file with your graphical interface or just type "cat Desktop/date.txt" and check what it contains inside. Isn't that exciting?
     * We can also use the ">" operator to direct our input. 
 
