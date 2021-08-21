@@ -25,13 +25,19 @@
  ```
  $ man <commandName>
  ```
+
  * This command will open manual page for the name you have given.
 
  * If we want to find a new command for a usage, we can search through manual pages with -k option.
+
  ```
  $ man -k <search term>
  ```
+
  * This will return the commands containing the search term in its name or description.
+
+ * In addition when you open a manual page, the text is being displayed on a new page on your terminal. To exit that screen you need to click **q**. With this feature, a large line of text on any manual page will not fill your terminal.
+
 
  # help Command
  * Some commands may not have a manual page. There is also a help command that gives us a little information about some commands.
