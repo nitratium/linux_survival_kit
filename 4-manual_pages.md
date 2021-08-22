@@ -45,3 +45,6 @@
  $ help <commandName>
  ```
  * This works too similar to man command. Don't forget to give it a try!
+
+ #
+ * See you on the next document!
