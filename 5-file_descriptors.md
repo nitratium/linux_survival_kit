@@ -16,7 +16,6 @@
     ```
     $ command_name –options arguments < source_destination
     ```
-    
 
     * For redirecting Standart Output Stream, we should use the operator **"1>"** or **">"**.
     ```
@@ -27,14 +26,13 @@
     $ command_name –options arguments > output_destination
     ```
 
-
     * For redirecting Standart Error Stream, we should use the operator **"2>"**.
     ```
     $ command_name –options arguments 2> error_destination
     ```
       * There is no short from for this. :(
     
-    
+  #
   * Let's redirect stuff into text files and read inputs from text files. You don't need to create any text file on your desktop. If there is none, commands will create one for you. Also you can observe the creation on your graphical interface after you run the commands. 
   * Don't worry about file paths for now. We will discuss about them in detail on later documents. If commands doesnt work because of the path, use **"cd"** command for once and they should work. If you are curious, we are using cd command for navigating through directories. It is short for "change direction". If you don't give any input to cd, it will teleport you into your home directory.
 
@@ -62,5 +60,4 @@
     * Did you notice that redirecting output to same text file has overwritten everything in the text file? If you don't want it to overwrite the text file, using "1>>" and "2>>" is going to solve your problem.
 
  #
-
  * See you on the next document!
