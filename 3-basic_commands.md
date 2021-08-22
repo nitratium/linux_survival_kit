@@ -11,18 +11,18 @@ Hello World!
 * You might think "Why do I need something like this? It just mirrors me.". Well, yes for now it is useless but we can redirect outputs to other commands or to other files. With this power it gains meaning. We will discuss redirection in detail later, don't worry about it now.
 
 # date and cal Command
+  ### date
   * As you can imagine, date returns the current date and time. 
   ```
   $ date
   Tue Jun 27 14:51:22 IST 2021
   ```
-
+  ### cal
   * 'cal' returns an interesting output that I'm pretty sure you will like.
   ```
   $ cal -A -B
 
   ```
-  * 
   * cal has 2 command line arguments. First one is the day of a month and second one is the month.
 
 # history Command
@@ -47,14 +47,15 @@ $ history
   ```
   will run your 34th command on your history list.
 
-  * Also you can navigate through old commands with up and down arrow keys.
+  * Also you can navigate through old commands with up and down arrow keys without using history command.
 
 # cat Command
 * This command returns the content of files. Mostly we use this for text files.
-  * Lets say we have a text file named text.txt with the content "This is a text file.".
+  * Lets assume that we have a text file named text.txt with the content "This is a text file.".
   ```
   $ cat text.txt
   This is a text file.
   ```
-
+  
+#
 * See you on the next document!
