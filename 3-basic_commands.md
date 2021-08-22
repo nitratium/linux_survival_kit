@@ -12,13 +12,13 @@ Hello World!
 
 # date and cal Command
   ### date
-  * As you can imagine, date returns the current date and time. 
+  * As you can guess, date returns the current date and time. 
   ```
   $ date
   Tue Jun 27 14:51:22 IST 2021
   ```
   ### cal
-  * 'cal' returns an interesting output that I'm pretty sure you will like.
+  * 'cal' returns an interesting output that I'm pretty sure you are going to like.
   ```
   $ cal -A -B
 
@@ -56,6 +56,6 @@ $ history
   $ cat text.txt
   This is a text file.
   ```
-  
+
 #
 * See you on the next document!
