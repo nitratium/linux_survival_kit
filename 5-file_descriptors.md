@@ -8,9 +8,28 @@
 
   # Redirection
   * As we discussed earlier, we are able to redirect our file descriptors to different sources and different places. 
-    * For redirecting Standart Input Stream, we should use the operator **"0<"**. 
-    * For redirecting Standart Output Stream, we should use the operator **"1>"**.
+    * For redirecting Standart Input Stream, we should use the operator **"0<"** or **"<"**. 
+    ```
+    $ command_name –options arguments 0< source_destination
+    ```
+    or
+    ```
+    $ command_name –options arguments < source_destination
+    ```
+
+    * For redirecting Standart Output Stream, we should use the operator **"1>"** or **">"**.
+    ```
+    $ command_name –options arguments 1> output_destination
+    ```
+    or 
+    ```
+    $ command_name –options arguments > output_destination
+    ```
     * For redirecting Standart Error Stream, we should use the operator **"2>"**.
+    ```
+    $ command_name –options arguments 2> error_destination
+    ```
+      * There is no short from for this. :(
   
   * Let's redirect stuff into text files and read inputs from text files. You don't need to create any text file on your desktop. If there is none, commands will create one for you. Also you can observe the creation on your graphical interface after you run the commands. 
   * Don't worry about file paths for now. We will discuss about them in detail on later documents. If commands doesnt work because of the path, use **"cd"** command for once and they should work. If you are curious, we are using cd command for navigating through directories. It is short for "change direction". If you don't give any input to cd, it will teleport you into your home directory.
@@ -20,7 +39,7 @@
     $ date 1> Desktop/date.txt
     ```
     * Now go inside that text file with your graphical interface or just type "cat Desktop/date.txt" on the terminal and check what file contains inside. Isn't that exciting?
-    * We can also use the ">" operator to direct our input. 
+    * Reminder: we can also use the ">" operator to direct our input. 
 
   * Standart Input Example:
     * Let's try to read that file with echo command while redirecting our input from keyboard to text file.
@@ -28,7 +47,7 @@
     $ echo 0< Desktop/date.txt
     ```
     * This should return the content of date.txt file.
-    * We can also use the "<" operator to direct our input. 
+    * Reminder: We can also use the "<" operator to direct our input. 
 
   * Standart Error Example:
     * For redirecting an error message we should get an error message first, right? So, let's do something illegal for Linux Terminal and redirect error output to text file.
