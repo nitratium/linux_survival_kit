@@ -26,11 +26,9 @@ $ commandName -options arguments
 ```
 
 * Lets take our shutdown command as an example. Do not use the command below without further reading. Because, it basically restarts your computer when you run the command. :)
-
 ```
 $ shutdown -r now
 ```
-#
 * **Command names** are the names of the commands that we will use. "shutdown" is the name of the command for our example.
 
 #
@@ -44,7 +42,7 @@ this two options are equivalent.
 * As you can guess, "-r" is an option for our command. This option tells our command to restart the computer after the shutdown. If we wouldn't type -r it would just shut the computer down.
 
 #
-* **Arguments** are a type of input. Some commands take only one input while some takes more than one. Some commands take no inputs at all. Shutdown command takes a timing input for the shutdown. We have given "now" input for shutting down "right now".
+* **Arguments** are our inputs. Some commands take only one input while some takes more than one. Some commands take no inputs at all. Shutdown command takes a timing input for the shutdown. We have given "now" input for shutting down "right now".
 
 * Some options may also take arguments. For example:
 ```
@@ -56,8 +54,7 @@ $ cal --before 2 11 2021
 ```
 * This command will return 2 months before of 11/2021 which is 09/2021.
 
-
+#
 * There is something called manual pages on Linux terminal. Most of the commands have detailed information about themselves on these pages. So you don't need to memorise everything. You can navigate through these manual pages only in the terminal, even without an internet connection. I will create a manual page spesific document to show how to use manual pages.
 
-#
 * See you on the next document!
