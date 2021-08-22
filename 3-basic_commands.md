@@ -57,5 +57,12 @@ $ history
   This is a text file.
   ```
 
+# whoami Command
+* This command prints current user's name. Basically, it tells you who you are.
+  ```
+  $ whoami
+  nitrat@kali
+  ```
+
 #
 * See you on the next document!
