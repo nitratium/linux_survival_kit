@@ -17,7 +17,7 @@
 
 * Lets talk about command structure for a beginning.
 
-### About command structure
+# About command structure
 
 * Each command follows the same structure: 
 
