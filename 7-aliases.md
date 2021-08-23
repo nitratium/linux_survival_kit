@@ -26,3 +26,16 @@
   $ alias date_cal_printer="date | tee time.txt | xargs echo >> time.txt"
   ```
   * Now this command should print the date and calendar in time.txt without overwriting each other.
+  
+  # Piping to aliases
+  * If your alias accepts standart input, you can use the alias on a pipeline. Even if your alias is a pipeline.
+  ```
+  $ first_command -options arguments | custom_alias
+  ```
+  * But don't forget that your custom alias must accept standart input not only command line arguments.
+  * You can keep piping as long as you want.
+  ```
+  $ first_command -options arguments | custom_alias | second_command -options arguments | fourth command -options arguments
+  ```
+  #
+  * See you on the next document!
