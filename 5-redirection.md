@@ -9,7 +9,7 @@
   * Standard Input is your keyboard basically. Standard Output is where the program returns its output and Standard Error is where the program sends its error messages. Mostly Standard Output and Standard Error directed to your terminal and Standard Input is set to your keyboard by default. But we can redirect them. Does it sounds meaningless? If yes, then you are going to understand what it is with following examples don't worry. Just keep going. These are just definitions, mostly they don't make sense, aren't they? :)
 
   # Redirection
-  * As we discussed earlier, we are able to redirect our file descriptors to different sources and different places. 
+  * As we discussed earlier, we are able to redirect our file descriptors to different sources and different places.
     * For redirecting Standard Input Stream, we should use the operator **"0<"** or **"<"**. 
     ```
     $ command_name –options arguments 0< source_destination
@@ -61,5 +61,6 @@
     * Do you remember what cal command were getting as argument? Yes, the date as numbers. So, you should see the error message in date.txt.
     * Did you notice that redirecting output to same text file has overwritten everything in the text file? If you don't want it to overwrite the text file, using "1>>" and "2>>" is going to solve your problem.
 
+  * [For more information, the Official GNU manual] (https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
  #
  * See you on the next document!

@@ -50,7 +50,7 @@ $ history
   * Also you can navigate through old commands with up and down arrow keys without using history command.
 
 # cat Command
-* This command returns the content of files. Mostly we use this for text files.
+* This command returns the content of any file. Mostly we use this for text files.
   * Lets assume that we have a text file named text.txt with the content "This is a text file.".
   ```
   $ cat text.txt

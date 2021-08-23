@@ -8,6 +8,6 @@
 
 * You might have used a Linux distribution already and you may not even know. Android is a mobile operating system based on a modified version of the Linux kernel.
 
-* I also started with Ubuntu Linux and learned everything I will show you here in Ubuntu's terminal. Right now I am using Kali Linux because I am studying on its tools. If you see a different terminal interface on screenshots, don't worry. I am just using an another distribution. Everything is same except the visiual.
+* I also started with Ubuntu Linux and learned everything I will show you here in Ubuntu's terminal. Right now I am using Kali Linux because I am studying on its tools. If you see a different terminal interface, don't worry. I am just using an another distribution. Everything is same except the visiual.
 
 * See you on the next document!
