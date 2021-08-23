@@ -25,4 +25,4 @@
   ```
   $ alias date_cal_printer="date | tee time.txt | xargs echo >> time.txt"
   ```
-  * Now this command should print the date and time in time.txt without overwriting each other.
+  * Now this command should print the date and calendar in time.txt without overwriting each other.
