@@ -22,3 +22,14 @@
  * This should do the trick. This command takes the first commands output and prints that to text.txt and gives it to second command as input.
 
  # xargs
+ * There are some commands that only accept command line arguments. **(e.g. "echo" command)**
+ * echo command only accepts command line arguments. So we need something to switch our first command's structure from standard output to command line argument. Here is where **xargs** helps us.
+  ```
+  $ first_command –options arguments | echo
+  ```
+  * This won't work! As we said earlier, echo command needs an command line argument.
+
+  ```
+  $ first_command –options arguments | xargs echo
+  ```
+  * This will work. xargs transforms the data to command line arguments which is coming from first command.
