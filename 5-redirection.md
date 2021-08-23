@@ -61,6 +61,6 @@
     * Do you remember what cal command were getting as argument? Yes, the date as numbers. So, you should see the error message in date.txt.
     * Did you notice that redirecting output to same text file has overwritten everything in the text file? If you don't want it to overwrite the text file, using "1>>" and "2>>" is going to solve your problem.
 
-  * [For more information, the Official GNU manual] (https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
+  [For more information, the Official GNU manual] (https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
  #
  * See you on the next document!
