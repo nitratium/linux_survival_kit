@@ -1,5 +1,3 @@
-*** TEST EXAMPLE COMMANDS
-
 # File Descriptors
   * File descriptors (FDs) are like pointers to sources data can be read or places data can be written. There are three file descriptors:
     * Standard Input (stdin): FD 0
