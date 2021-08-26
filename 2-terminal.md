@@ -1,5 +1,3 @@
-*** CHECK cal --before or --Before ***
-
 # So the famous Terminal...
 
 *** Firstly, I need to inform you about something. You know the terminal on Linux right? Well, it's not a terminal.
