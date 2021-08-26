@@ -21,6 +21,7 @@ Hello World!
   * 'cal' returns an interesting output that I'm pretty sure you are going to like.
   ```
   $ cal 09 2021
+  
       August 2021       
 Su Mo Tu We Th Fr Sa  
  1  2  3  4  5  6  7  
@@ -43,6 +44,7 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 29 30 31              26 27 28 29 30        24 25 26 27 28 29 30  
                                             31   
  ```
+ * -A and -B options are for printing months following before and after.
 
 # history Command
 * Returns all the commands that you have entered before.
@@ -83,5 +85,6 @@ $ history
   nitrat
   ```
 * nitrat is my username on my Linux. Of course you should see your own nickname. :)
+
 #
 * See you on the next document!
