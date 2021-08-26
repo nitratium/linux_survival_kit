@@ -9,7 +9,7 @@
   * **Commands** are the stuff we type on our terminal.
   * **Shell** is a program that interprets our commands into a meaning for our computer to be able to execute.
 
-* Let's open the terminal. You can open your terminal with graphical interface basically clicking on its icon on your favorites menu. When you install Ubuntu, terminal icon comes as stock on your favorites menu or taskbar with Windows slang. Also you can use the shortcut **CTRL + ALT + T** to open your terminal.
+* Let's open the terminal. You can open your terminal with graphical interface basically clicking on its icon on your favorites menu. When you install Ubuntu, terminal icon comes as stock on your favorites menu or taskbar with Windows slang. Also you can use the shortcut **CTRL + ALT + T** to open your terminal. (It is mostly set to that by default. If that doesn't work go to your Linux distribution's accessibility settings and set a shortcut key for it if you want one.)
 
 * I am hoping that you managed to open your terminal. :) 
 
@@ -46,13 +46,9 @@ this two options are equivalent.
 
 * Some options may also take arguments. For example:
 ```
-$ cal -B 2 11 2021 
+$ cal -B2 11 2021 
 ```
-or
-```
-$ cal --before 2 11 2021
-```
-* This command will return 2 months before of 11/2021 which is 09/2021.
+* This command will print all the months between 11/2021 and 09/2021 which is 2 months before of 11/2021.
 
 #
 * There is something called manual pages on Linux terminal. Most of the commands have detailed information about themselves on these pages. So you don't need to memorise everything. You can navigate through these manual pages only in the terminal, even without an internet connection. I will create a manual page spesific document to show how to use manual pages.
