@@ -62,9 +62,9 @@ $ history
   ```
   and
   ```
-  $ !34
+  $ !32
   ```
-  will run your 34th command on your history list.
+  will run your 32th command on your history list.
 
   * Also you can navigate through old commands with up and down arrow keys without using history command.
 
