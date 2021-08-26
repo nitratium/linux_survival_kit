@@ -46,7 +46,7 @@ this two options are equivalent.
 ```
 $ cal -B2 11 2021 
 ```
-* This command will print all the months between 11/2021 and 09/2021 which is 2 months before 11/2021.
+* This command will print all the months between 11/2021 and 2 months before, 09/2021. 2 month difference comes from the option's argument.
 
 #
 * There is something called manual pages on Linux terminal. Most of the commands have detailed information about themselves on these pages. So you don't need to memorise everything. You can navigate through these manual pages only in the terminal, even without an internet connection. I will create a manual page spesific document to show how to use manual pages.
