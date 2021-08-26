@@ -48,10 +48,11 @@
   * Standard Input Example:
     * Let's try to read that file with echo command while redirecting our input from keyboard to text file.
     ```
-    $ echo 0< Desktop/date.txt
+    $ xargs echo 0< Desktop/date.txt
     ```
     * This should return the content of date.txt file.
     * Reminder: We can also use the "<" operator to direct our input. 
+    * I will explain xargs on next document. Ignore that for now.
 
   * Standard Error Example:
     * For redirecting an error message we should get an error message first, right? So, let's do something illegal for Linux Terminal and redirect error output to text file.
