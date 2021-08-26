@@ -1,5 +1,3 @@
-*** CAL COMMAND MISSING
-
 # echo Command
 * If you have programming experience this thing basically does what a **print()** does. If you don't have any programming experience it is still so easy. Give it an input and it will return what you gave it as argument.
 
