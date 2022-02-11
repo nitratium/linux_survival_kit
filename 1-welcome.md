@@ -2,7 +2,7 @@
 
 * For better learning i strongly advise you to download and install your favorite Linux distribution and try the stuff on your own terminal emulator.
 
-* If you don't have any idea about any Linux distribution, don't worry. I had no idea as well. You can start with [Ubuntu](https://ubuntu.com/) distribution. I bet you heard about it. It is easy to install into your hardware or virtual machine. There are lots of visiual tutorials on installing Ubuntu. If you have any problems on this step, you can reach me out.
+* If you don't have any idea about any Linux distribution, don't worry. I had no idea as well. You can start with [Ubuntu](https://ubuntu.com/) distribution. I bet you heard about it. It is easy to install into your hardware or virtual machine. There are lots of visual tutorials on installing Ubuntu. If you have any problems on this step, you can reach me out.
 
 * Once you get into graphical interface everything is similar to Windows. Even simpler, trust me. There is nothing to be scared. :)
 
