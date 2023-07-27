@@ -2,7 +2,7 @@
 
 # Pipelines
  * Linux commands are designed to do one thing and do it in the most efficient way. But a limitation comes out here. What if we want to handle more than one thing in only one execute? Well, the true power of the linux command line comes out with a feature named piping. 
- * We can chain our commands to work together. In definition, we are connecting the standard output of one command to the standard input of anouther command. We are using the operator "|" to pipe our commands. (For english keyboard it's Shift + Backslash, for Turkish Q keyboard it is Alt Gr + < (next to Z))
+ * We can chain our commands to work together. In definition, we are connecting the standard output of one command to the standard input of another command. We are using the operator "|" to pipe our commands. (For English keyboards, it's Shift + Backslash; and for Turkish Q keyboards, it's Alt Gr + < (next to Z))
 
  Example:
  ```
@@ -19,7 +19,7 @@
   ```
   $ first_command –options arguments | tee text.txt | second_command –options arguments
   ```
- * This should do the trick. This command takes the first commands output and prints that to text.txt and gives it to second command as input.
+ * This should do the trick. This command takes the first command's output and prints that to text.txt and gives it to second command as input.
 
  # xargs
  * There are some commands that only accept command line arguments. **(e.g. "echo" command)**
