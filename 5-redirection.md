@@ -4,7 +4,7 @@
     * Standard Output (stdout): FD 1
     * Standard Error (stderr): FD 2
 
-  * Standard Input is your keyboard basically. Standard Output is where the program returns its output and Standard Error is where the program sends its error messages. Mostly Standard Output and Standard Error directed to your terminal and Standard Input is set to your keyboard by default. But we can redirect them. Does it sounds meaningless? If yes, then you are going to understand what it is with following examples don't worry. Just keep going. These are just definitions, mostly they don't make sense, aren't they? :)
+  * Standard Input is your keyboard basically. Standard Output is where the program returns its output and Standard Error is where the program sends its error messages. Mostly Standard Output and Standard Error directed to your terminal and Standard Input is set to your keyboard by default. But we can redirect them. Does it sounds meaningless? If yes, then you are going to understand what it is with following examples don't worry. Just keep going. These are just definitions, they don't make sense mostly, do they? :)
 
   # Redirection
   * As we discussed earlier, we are able to redirect our file descriptors to different sources and different places.
